@@ -16,7 +16,9 @@
 
 ###
 
-<p align="left">- 🔭 I'm currently learning cybersecurity<br>- 🌱 I'm working on creating a recycling app<br>- 📫 How to reach me: [linkedin](www.linkedin.com/in/kelly-f-m)</p>
+- 🔭 I'm currently learning cybersecurity<br/>
+- 🌱 I'm working on creating a recycling app<br/>
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/kelly-f-m)
 
 ###
 
