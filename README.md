@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Computer Science student passionate about technology and astronomy ✨</p>
+<p align="left">I'm a Computer Science student passionate about technology and astronomy ✨</p>
 
 ###
 
@@ -17,7 +17,7 @@
 ###
 
 - 🔭 I'm currently learning cybersecurity<br/>
-- 🌱 I'm working on creating a recycling app<br/>
+- 🌱 I'm currently developing a recycling app<br/>
 
 ###
 
