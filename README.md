@@ -1,52 +1,31 @@
-<h1 align="left">Hello, I'm Kelly =)</h1>
+<h1 align="left">Hello, I'm Kelly 👋</h1>
 
 ###
 
-<p align="left">I'm a Computer Science student passionate about technology and astronomy ✨</p>
-
-###
-
-<div align="left">
-  <img height="" src="https://64.media.tumblr.com/0ecb33400681c8940a7f8d76c4f7c027/9d2ace66075bdf3c-36/s640x960/5891945294466f0646218764a900b1e900150aa1.gifv"  />
-</div>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-- 🔭 I'm currently learning cybersecurity<br/>
-- 🌱 I'm currently developing a recycling app<br/>
-
-###
-
-<h2 align="left">Skills</h2>
+<p align="left">Computer Science student and IT support technician, passionate about technology and exploring offensive security! 👾</p>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
+  <img height="" src="https://64.media.tumblr.com/0ecb33400681c8940a7f8d76c4f7c027/9d2ace66075bdf3c-36/s640x960/5891945294466f0646218764a900b1e900150aa1.gifv"/>
 </div>
 
 ###
+
+<h2 align="left">⭐ Skills</h2>
+
+###
+
+[![My Skills](https://skillicons.dev/icons?i=c,python,git,linux,windows,aws,docker,kubernetes)](https://skillicons.dev)
+
+###
+
+
+## 🌐 Networking
+- LinkedIn: [kelly-f-m](https://www.linkedin.com/in/kelly-f-m/)
+- Credly: [kelly-f-m](https://www.credly.com/users/kelly-f-m)
+
+
 <!--
 **kelly-f-m/kelly-f-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
