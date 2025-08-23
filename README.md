@@ -1,6 +1,6 @@
 # Hello, I'm Kelly 👋
 
-Computer Science student and IT support technician, passionate about technology and exploring offensive security. 👾
+Computer Science student and IT support technician, passionate about technology and exploring offensive security! 👾
 
 <div align="left">
   <img height="" src="https://64.media.tumblr.com/0ecb33400681c8940a7f8d76c4f7c027/9d2ace66075bdf3c-36/s640x960/5891945294466f0646218764a900b1e900150aa1.gifv"/>
