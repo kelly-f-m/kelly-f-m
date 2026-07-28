@@ -8,7 +8,7 @@ Computer Science student passionate about technology and exploring information s
 
 ## ⭐ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,git,linux,windows,aws,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,git,linux,windows,ubuntu,nginx,gcp,fastapi,debian,cloudflare,arduino,aws,docker,kubernetes)](https://skillicons.dev)
 
 <div align="left">
   <img height="" src="https://64.media.tumblr.com/0ecb33400681c8940a7f8d76c4f7c027/9d2ace66075bdf3c-36/s640x960/5891945294466f0646218764a900b1e900150aa1.gifv"/>
